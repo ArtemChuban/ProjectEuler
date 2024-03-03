@@ -42,5 +42,8 @@ fn main() {
         c = a + b;
     }
 
-    println!("The sum of the even-valued terms of the Fibonacci sequence: {}", sum);
+    println!(
+        "The sum of the even-valued terms of the Fibonacci sequence: {}",
+        sum
+    );
 }
